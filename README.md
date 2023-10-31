@@ -11,7 +11,11 @@ To perform Matrix addition with unified memory and check its performance with nv
 4. Declare the main function and set up the device & data size of matrix , perform memory allocation on host memory & initialize the data at host side then add matrix at host side for result checks followed by invoking kernel at host side. Check the kernel error, and check device for results.Finally free the device global memory and reset device.
 5. Execute the program and run the terminal.
 
-## OUTPUT
+## PROGRAM
+
+Program Developed By : Surendar N 
+Register No : 212222040165
+
 ### With Memset
 ```cuda
 %%cu
